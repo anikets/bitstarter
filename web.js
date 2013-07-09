@@ -1,4 +1,4 @@
-require( 'fs' );
+var fs = require( 'fs' );
 
 var indexFile;
 fs.readFile( 'index.html', function( err, data ) {
