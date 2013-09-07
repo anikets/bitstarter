@@ -3,3 +3,21 @@ Description
 --------------------------------------------------------------------------------
 
 Travlster shows you information relevant to your current location. Discover places like never before.
+
+
+Priority | Features
+--------------------------------------------------------------------------------
+    x    | Ticket payment (bus, trains, flights)
+    x    | Hire taxi
+    x    | Show schedules (bus, trains, flights)
+    x    | Browse hotel menus
+
+
+Prospective APIs
+--------------------------------------------------------------------------------
+Google Maps
+Foursquare
+Facebook
+Twitter
+Linkedin
+Zomato
